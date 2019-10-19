@@ -1,0 +1,5 @@
+[1018/100823.019:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1018/120400.337:ERROR:process_info.cc(359)] UncheckedAllocate
+[1018/131450.975:ERROR:process_info.cc(359)] UncheckedAllocate
+[1018/131450.975:ERROR:process_info.cc(359)] UncheckedAllocate
+[1018/131451.592:ERROR:process_info.cc(359)] UncheckedAllocate
